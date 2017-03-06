@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ocrsdk.com/schema/recognizedBusinessCard-1.0.xsd http://ocrsdk.com/schema/recognizedBusinessCard-1.0.xsd" xmlns="http://ocrsdk.com/schema/recognizedBusinessCard-1.0.xsd">
+    <businessCard imageRotation="counterclockwise">
+        <field type="Phone">
+            <value>603.488.6520</value>
+        </field>
+        <field type="Fax">
+            <value>603.622.3862</value>
+        </field>
+        <field type="Mobile">
+            <value>603.738.4565</value>
+        </field>
+        <field type="Email">
+            <value>peter.chase@scribesoft.com</value>
+        </field>
+        <field type="Address">
+            <value>Scribe Software, 1750 Elm Street, Suite 200 Manchester, NH 03104 USA</value>
+        </field>
+        <field type="Name">
+            <value>Peter Chase</value>
+        </field>
+        <field type="Company">
+            <value>scribesoft</value>
+        </field>
+        <field type="Job">
+            <value>Executive Vice President and Founder</value>
+        </field>
+        <field type="Job">
+            <value>pcscribe | sr peterrchase</value>
+        </field>
+        <field type="Text">
+            <value>PETER CHASE
+                Executive Vice President and Founder
+                i
+                Scribe Software, 1750 Elm Street, Suite 200
+                Manchester, NH 03104 USA
+                ^ P 603.488.6520 | M 603.738.4565 | F 603.622.3862
+                si peter.chase@scribesoft.com
+                0 pcscribe | sr peterrchase
+                in peterrchase</value>
+        </field>
+    </businessCard>
+</document>

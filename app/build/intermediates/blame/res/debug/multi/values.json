@@ -1,0 +1,140 @@
+[
+    {
+        "outputFile": "/Volumes/Backup/AndroidCode/ABBYAndroidOcr/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 49,
+                    "endOffset": 100
+                },
+                "from": {
+                    "file": "/Volumes/Backup/AndroidCode/ABBYAndroidOcr/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 49,
+                        "endOffset": 100
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 50,
+                    "endOffset": 151
+                },
+                "from": {
+                    "file": "/Volumes/Backup/AndroidCode/ABBYAndroidOcr/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 233,
+                        "endColumn": 50,
+                        "endOffset": 279
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 156,
+                    "endColumn": 46,
+                    "endOffset": 198
+                },
+                "from": {
+                    "file": "/Volumes/Backup/AndroidCode/ABBYAndroidOcr/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 284,
+                        "endColumn": 46,
+                        "endOffset": 326
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 203,
+                    "endColumn": 39,
+                    "endOffset": 238
+                },
+                "from": {
+                    "file": "/Volumes/Backup/AndroidCode/ABBYAndroidOcr/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 390,
+                        "endColumn": 39,
+                        "endOffset": 425
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 243,
+                    "endColumn": 50,
+                    "endOffset": 289
+                },
+                "from": {
+                    "file": "/Volumes/Backup/AndroidCode/ABBYAndroidOcr/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 105,
+                        "endColumn": 50,
+                        "endOffset": 151
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 294,
+                    "endColumn": 76,
+                    "endOffset": 366
+                },
+                "from": {
+                    "file": "/Volumes/Backup/AndroidCode/ABBYAndroidOcr/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 156,
+                        "endColumn": 76,
+                        "endOffset": 228
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 371,
+                    "endColumn": 58,
+                    "endOffset": 425
+                },
+                "from": {
+                    "file": "/Volumes/Backup/AndroidCode/ABBYAndroidOcr/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 331,
+                        "endColumn": 58,
+                        "endOffset": 385
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Volumes/Backup/AndroidCode/ABBYAndroidOcr/app/build/intermediates/res/merged/debug/menu/activity_main.xml",
+        "source": "/Volumes/Backup/AndroidCode/ABBYAndroidOcr/app/src/main/res/menu/activity_main.xml"
+    },
+    {
+        "merged": "/Volumes/Backup/AndroidCode/ABBYAndroidOcr/app/build/intermediates/res/merged/debug/menu/activity_results.xml",
+        "source": "/Volumes/Backup/AndroidCode/ABBYAndroidOcr/app/src/main/res/menu/activity_results.xml"
+    }
+]

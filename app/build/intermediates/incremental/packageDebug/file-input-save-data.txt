@@ -1,0 +1,33 @@
+#Internal package file, do not edit.
+#Wed Feb 22 17:16:29 IST 2017
+2.base=/Volumes/Backup/AndroidCode/ABBYAndroidOcr/app/build/intermediates/res/resources-debug.ap_
+5.file=/Volumes/Backup/AndroidCode/ABBYAndroidOcr/app/build/intermediates/res/resources-debug.ap_/res/drawable-mdpi-v4/ic_launcher.png
+5.set=ANDROID_RESOURCE
+3.base=/Volumes/Backup/AndroidCode/ABBYAndroidOcr/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+6.file=/Volumes/Backup/AndroidCode/ABBYAndroidOcr/app/build/intermediates/res/resources-debug.ap_/res/layout/activity_main.xml
+2.set=ANDROID_RESOURCE
+4.base=/Volumes/Backup/AndroidCode/ABBYAndroidOcr/app/build/intermediates/res/resources-debug.ap_
+7.file=/Volumes/Backup/AndroidCode/ABBYAndroidOcr/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+7.set=ANDROID_RESOURCE
+count=10
+0.file=/Volumes/Backup/AndroidCode/ABBYAndroidOcr/app/build/intermediates/res/resources-debug.ap_/res/layout/activity_results.xml
+5.base=/Volumes/Backup/AndroidCode/ABBYAndroidOcr/app/build/intermediates/res/resources-debug.ap_
+8.file=/Volumes/Backup/AndroidCode/ABBYAndroidOcr/app/build/intermediates/res/resources-debug.ap_/res/drawable-hdpi-v4/ic_launcher.png
+4.set=ANDROID_RESOURCE
+6.base=/Volumes/Backup/AndroidCode/ABBYAndroidOcr/app/build/intermediates/res/resources-debug.ap_
+1.file=/Volumes/Backup/AndroidCode/ABBYAndroidOcr/app/build/intermediates/res/resources-debug.ap_/res/drawable-ldpi-v4/ic_launcher.png
+9.set=ANDROID_RESOURCE
+9.file=/Volumes/Backup/AndroidCode/ABBYAndroidOcr/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+1.set=ANDROID_RESOURCE
+7.base=/Volumes/Backup/AndroidCode/ABBYAndroidOcr/app/build/intermediates/res/resources-debug.ap_
+2.file=/Volumes/Backup/AndroidCode/ABBYAndroidOcr/app/build/intermediates/res/resources-debug.ap_/res/menu/activity_results.xml
+6.set=ANDROID_RESOURCE
+0.base=/Volumes/Backup/AndroidCode/ABBYAndroidOcr/app/build/intermediates/res/resources-debug.ap_
+8.base=/Volumes/Backup/AndroidCode/ABBYAndroidOcr/app/build/intermediates/res/resources-debug.ap_
+3.file=/Volumes/Backup/AndroidCode/ABBYAndroidOcr/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
+3.set=DEX
+1.base=/Volumes/Backup/AndroidCode/ABBYAndroidOcr/app/build/intermediates/res/resources-debug.ap_
+9.base=/Volumes/Backup/AndroidCode/ABBYAndroidOcr/app/build/intermediates/res/resources-debug.ap_
+4.file=/Volumes/Backup/AndroidCode/ABBYAndroidOcr/app/build/intermediates/res/resources-debug.ap_/res/menu/activity_main.xml
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE
